@@ -34,12 +34,14 @@ img: ":home-heading.jpg"
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 # don't forget that this is root index.html. If you disable this, there will be no index.html page to open
-#published: false
+# published: false
 ---
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
 
-{{ website_info_text_second }}
+I am **Tanay Ranjan**, final year student at BITS Pilani, Hyderabad Campus.
+
+This is my portfolio website where you can find details about me, my works and links to all of my social media profiles
+
+Visit my [about]({{ site.baseurl }}{% link tabs/about.md %}) and [project]({{ site.baseurl }}{% link tabs/blog/index.html %}) page for more details about me

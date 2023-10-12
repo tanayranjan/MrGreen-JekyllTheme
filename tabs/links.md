@@ -41,53 +41,53 @@ published: false
 ###########################################################
 page_data:
   main:
-    header: "Links"
-    info: "Your Links page description."
+    header: "Tanay Ranjan"
+    info: "Research Intern @ Robotics Research Center (IIIT-H) | Final Year Undergraduate @ BITS Pilani Hyderabad Campus"
 
   # To change order of the Categories, simply change order. (you don't need to change list order.)
   category:
-    - title: "JekyII / Liquid"
-      type: id_jekyiiliquid
-      color: "gray"
-    - title: "Web Design"
-      type: id_webdesign
+    - title: "Education"
+      type: id_education
       color: "#F4A273"
-    - title: "Programming"
-      type: id_programming
+    - title: "Experience"
+      type: id_exp
       color: "#62b462"
+    - title: "Projects"
+      type: id_project
+      color: "gray"
 
   list:
     -
-    # programming
-    - type: id_programming
+    # project
+    - type: id_project
       title: "Stack OverFlow"
       url: "https://stackoverflow.com/"
       info: "Stack Overflow is a question and answer website for professional and enthusiastic programmers."
 
-    # jekyiiliquid
-    - type: id_jekyiiliquid
+    # education
+    - type: id_education
       title: "Jekyll"
       url: "https://jekyllrb.com/"
       info: "Transform your plain text into static websites and blogs."
-    - type: id_jekyiiliquid
+    - type: id_education
       title: "Jekyll Cheat Sheet"
       url: "https://cloudcannon.com/community/jekyll-cheat-sheet/"
       info: "There are so many Jekyll variables and filters to remember and it can be tricky to keep it all in your head. This cheat sheet serves as a quick reference of everything Jekyll can do."
-    - type: id_jekyiiliquid
+    - type: id_education
       title: "Liquid for Designers"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Designers"
       info: "Liquid for Designers wiki on GitHub."
-    - type: id_jekyiiliquid
+    - type: id_education
       title: "Liquid for Programmers"
       url: "https://github.com/Shopify/liquid/wiki/Liquid-for-Programmers"
       info: "Liquid for Programmers wiki on GitHub."
-    - type: id_jekyiiliquid
+    - type: id_education
       title: "Liquid Reference"
       url: "https://shopify.dev/api/liquid/"
       info: "Liquid is a template language created by Shopify and written in Ruby. It is now available as an open source project on GitHub."
 
-    # webdesign
-    - type: id_webdesign
+    # exp
+    - type: id_exp
       title: "W3Schools"
       url: "https://www.w3schools.com/"
       info: "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many more."
