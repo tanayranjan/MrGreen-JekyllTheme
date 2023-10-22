@@ -30,6 +30,7 @@ layout: util/compress
   <head>
     {% include default/header/header.html %}
     {% include default/css-include.html %}
+    {% include slider_styles.html %}
   </head>
 
   <body {{ default_dark }}>
@@ -66,5 +67,6 @@ layout: util/compress
     {%- endif %}
 
     {% include default/scripts-include.html -%}
+    {% include slider_scripts.html %}
   </body>
 </html>

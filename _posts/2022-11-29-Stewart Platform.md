@@ -37,6 +37,8 @@ date: 2022-11-29 10:04:30 +0900
 #search_engine_exclude: true
 # to disable this page, simply set published: false or delete this file
 #published: false
+image_sliders:
+  - stewart
 ---
 
 # Aim:
@@ -78,9 +80,7 @@ To fabricate Stewart Platform, and control it with Arduino
 	
 # Fabricated Model
 
-![d7fe8712789d43873a49f8c8eed1369b.png](:StewartPlatform/d7fe8712789d43873a49f8c8eed1369b.png)
-![d03ef72f91d9b5e2e7a217b79306941e.png](:StewartPlatform/d03ef72f91d9b5e2e7a217b79306941e.png)
-![206f0e7c19ecd899e20e256ec3bf4050.png](:StewartPlatform/206f0e7c19ecd899e20e256ec3bf4050.png)
+{% include slider.html selector="stewart" %}
 	
 ---
 

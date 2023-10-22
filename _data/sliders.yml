@@ -1,0 +1,15 @@
+# example slider
+- selector: stewart
+  captions: true
+  images:
+    - src: /assets/img/posts/StewartPlatform/d7fe8712789d43873a49f8c8eed1369b.png
+      alt: Front View
+    - src: /assets/img/posts/StewartPlatform/d03ef72f91d9b5e2e7a217b79306941e.png
+      alt: Front View
+    - src: /assets/img/posts/StewartPlatform/206f0e7c19ecd899e20e256ec3bf4050.png
+      alt: Top View
+  settings:
+    height: "'auto'"
+    effect: "'slide'"
+    keyboardNav: true
+    interval: 4000
