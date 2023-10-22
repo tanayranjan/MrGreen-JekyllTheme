@@ -111,7 +111,7 @@ post:
 # for post-list layout
 post-list:
   title: Blog
-  button_name: Projects
+  button_name: Projects & Blogs
   upside_down_tabs:
     tab:
       all: All
@@ -134,7 +134,7 @@ post-list:
 
 # for home layout
 home:
-  title: Welcome
+  title: Portfolio
   button_name: Home
   new_posts_title: New Articles
   new_posts_show_more_button: View More ...
