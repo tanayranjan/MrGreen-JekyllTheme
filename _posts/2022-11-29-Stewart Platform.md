@@ -100,9 +100,28 @@ To fabricate Stewart Platform, and control it with Arduino
 
 The upper base moving vertical up and down
 
-Video:
+<iframe src="https://drive.google.com/file/d/1BKhRoIAakjQp8SDqGbaVQaWgeVYjym_E/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Code:
+<!-- <details>
+  <summary><b>Click</b></summary>
+
+  <pre>
+  <span style="color:grey">
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+  </span>
+  </pre>
+
+</details> -->
+
+
+
+
+
+<!-- Code:
 
 ```Arduino
 #include <Servo.h>
@@ -169,18 +188,18 @@ void loop() {
   }
 
 }
-```
+``` -->
 
 ## Twisting Motion
 
 Twisting the upper plane with respect to vertical axis
 
-Video:
+<iframe src="https://drive.google.com/file/d/14v_31YpnsDLOFqjI-beK3KBMPaJUY2Jy/preview" width="640" height="480" allow="autoplay"></iframe>
 
 
-Code:
+<!-- Code: -->
 
-```Arduino
+<!-- ```Arduino
 #include <Servo.h>
 
 Servo Servo1;
@@ -251,15 +270,15 @@ void loop() {
     i++;
   }
 }
-```
+``` -->
 
 ## Horizontal Circular Motion
 
 Moving the whole upper plane in it's plane in a circular motion
 
-Video:
+<iframe src="https://drive.google.com/file/d/1gB_VU66TVtDA0-qJjip9Ou__tl_UeeYr/preview" width="640" height="480" allow="autoplay"></iframe>
 
-Code:
+<!-- Code:
 ```Arduino
 #include <Servo.h>
 
@@ -358,5 +377,8 @@ void loop() {
     i++;
   }
 }
-```
+``` -->
+
+
+## For Code of this Project, [Click here](https://github.com/webisgood/Design_and_Testing_of_Stewart_Platform)
 
