@@ -46,4 +46,5 @@ I am currently doing **Undergraduate Research Internship** in [Robotics Research
 
 I am looking for opportunities in the field of Robotics, so if you have any for me, please drop me a mail at my Institute E-Mail
 
+**CV** : [Google Drive Link](https://drive.google.com/file/d/1GMJOAaI36Ca6FN7L_n9416wwfhHuRul1/view?usp=sharing)
 **My Institute E-Mail** : f20200483@hyderabad.bits-pilani.ac.in
