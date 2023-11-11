@@ -40,7 +40,7 @@ img: ":about.jpg"
 
 Hi, I am **Tanay Ranjan**, currently a **final year undergraduate student at BITS Pilani, Hyderabad Campus**, doing **B.E. in Electrical and Electronics Engineering**.
 
-My interests lies in *Control and Dynamics in the field of Robotics*, and willing to explore and pursue it
+My interests lies in **Control and Dynamics in the field of Robotics**, and willing to explore and pursue it
 
 I am currently doing **Undergraduate Research Internship** in [Robotics Research Center @ IIIT-Hyderabad](https://robotics.iiit.ac.in/), under supervision of [Dr. Nagamanikandan Govindan](https://nagamanigi.wixsite.com/home) on topic **Motion Control of Mobile Manipulator**
 
