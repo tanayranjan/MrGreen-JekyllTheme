@@ -380,5 +380,5 @@ void loop() {
 ``` -->
 
 
-## For Code of this Project, [Click here](https://github.com/webisgood/Design_and_Testing_of_Stewart_Platform)
+## For Code of this Project, [Click here](https://github.com/AmoghJuloori/Design-and-Fabrication-of-a-Stewart-Platform)
 
