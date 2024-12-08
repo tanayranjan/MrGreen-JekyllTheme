@@ -38,14 +38,17 @@ img: ":about.jpg"
 
 {%- comment -%} Please delete below and place your page content here {%- endcomment -%}
 
-Hi, I am **Tanay Ranjan**, currently a **final year undergraduate student at BITS Pilani, Hyderabad Campus**, doing **B.E. in Electrical and Electronics Engineering**.
+Hi, I am **Tanay Ranjan**, a graduated student from **BITS Pilani, Hyderabad Campus**, with the degree **B.E. in Electrical and Electronics Engineering**.
 
-My interests lies in **Control and Dynamics in the field of Robotics**, and willing to explore and pursue it
+I am very eager to work on projects related to implementations of **Controls and Learning Algorithms** in Robotics.
 
-I am currently doing **Undergraduate Research Internship** in [Robotics Research Center @ IIIT-Hyderabad](https://robotics.iiit.ac.in/), under supervision of [Dr. Nagamanikandan Govindan](https://nagamanigi.wixsite.com/home) on topic **Motion Control of Mobile Manipulator**
+Currently I am working as a **Project Intern** at [AI & Robotics Lab](https://www.linkedin.com/company/artificial-intelligence-and-robotics-laboratory) under [Prof. Suresh Sundaram](https://aero.iisc.ac.in/people/suresh-sundaram/) at **IISc Bangalore**, where I am working on building drone swarm system leveraging 5G communication technology, and obstacle avoidance on drone using Control Barrier Function.
 
-I am looking for opportunities in the field of Robotics, so if you have any for me, please drop me a mail at my Institute E-Mail
+Previously I have worked as an **Undergraduate Research Intern** in [Robotics Research Center @ IIIT-Hyderabad](https://robotics.iiit.ac.in/), under supervision of [Prof. Nagamanikandan Govindan](https://nagamanigi.wixsite.com/home) on topic **Motion Control of Mobile Manipulator**
+
+I am looking for opportunities in the field of Robotics, so if you have any for me, please drop me a mail at my Personal E-Mail
 
 **CV** : [Google Drive Link](https://drive.google.com/file/d/1KmMiYzd71ryAC_atJM7kYabfSnnNxKLY/view?usp=drive_link)
 
-**My Institute E-Mail** : f20200483@hyderabad.bits-pilani.ac.in
+**My Personal E-Mail** : tanayranjan93@gmail.com ([Click to Mail](mailto:tanayranjan93@gmail.com))
+**My Institute E-Mail** : f20200483@hyderabad.bits-pilani.ac.in ([Click to Mail](mailto:f20200483@hyderabad.bits-pilani.ac.in))
