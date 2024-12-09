@@ -50,6 +50,5 @@ I am looking for opportunities in the field of Robotics, so if you have any for 
 
 **CV** : [Google Drive Link](https://drive.google.com/file/d/1KmMiYzd71ryAC_atJM7kYabfSnnNxKLY/view?usp=drive_link)
 
-**My Personal E-Mail** : tanayranjan93@gmail.com ([Click to Mail](mailto:tanayranjan93@gmail.com))
-
+**My Personal E-Mail** : tanayranjan93@gmail.com ([Click to Mail](mailto:tanayranjan93@gmail.com))\
 **My Institute E-Mail** : f20200483@hyderabad.bits-pilani.ac.in ([Click to Mail](mailto:f20200483@hyderabad.bits-pilani.ac.in))
